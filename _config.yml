@@ -1,0 +1,15 @@
+title: 'blackandpink'
+description: "A minimal Jekyll theme"
+baseurl: "/"
+
+header_pages:
+    - index.md
+
+style: dark
+
+footer: 'follow me on <a href="https://twitter.com/">twitter</a>'
+
+# Build settings
+markdown: kramdown
+theme: blackandpink
+highlighter: rouge
