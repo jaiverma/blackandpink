@@ -10,7 +10,10 @@ style: dark
 
 footer: 'follow me on <a href="https://twitter.com/">twitter</a>'
 
-# Build settings
 markdown: kramdown
 theme: blackandpink
 highlighter: rouge
+
+# google_analytics: xxx
+# disqus:
+#     shortname: xxx
