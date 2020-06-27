@@ -4,6 +4,7 @@ baseurl: "/"
 
 header_pages:
     - index.md
+    - about.md
 
 style: dark
 
