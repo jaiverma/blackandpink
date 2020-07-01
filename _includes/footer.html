@@ -1,3 +1,6 @@
 <footer>
   {{ site.footer }}
+  {%- if page.layout == 'post' and jekyll.environment == 'production' and site.disqus.shortname -%}
+    {%- include disqus-comments.html -%}
+  {%- endif -%}
 </footer>

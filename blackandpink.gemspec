@@ -2,9 +2,9 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "blackandpink"
-  spec.version       = "0.1.0"
-  spec.authors       = [""]
-  spec.email         = [""]
+  spec.version       = "0.1.2"
+  spec.authors       = ["Jai"]
+  spec.email         = ["jai2.verma@outlook.com"]
 
   spec.summary       = "Minimal black and pink blog theme"
   spec.homepage      = "https://github.com/jaiverma/blackandpink"
