@@ -34,5 +34,4 @@ The theme is available as open source under the terms of the [MIT License](https
 
 ## TODO
 
-- Fix disqus comments (this has to be added to `_includes/head.html`)
 - Fix youtubePlayer.html (need to figure this out, or else just remove it)
